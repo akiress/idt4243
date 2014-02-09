@@ -1,0 +1,3 @@
+Upon interacting with the graph of options, the title will slide completely allowing for the filter/graph section to
+slide to the bottom. The center will now consist of the recipe for the food and a photo of the finished product. The
+top screens will contain some background information about the dish and the nutritional value of the dish.

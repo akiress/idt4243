@@ -1,0 +1,3 @@
+The title will now rest on the bottom of the interface. The center will be split, one screen for a filtering system and
+the second screen for what may end up as a Hamilton graph of the selected filters. The top will consist of random images
+populated by the filter selections.

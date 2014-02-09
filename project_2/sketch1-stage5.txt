@@ -1,0 +1,5 @@
+This is the mobile device interface. Three buttons to control the interface on the main screen: Home, Search, , and a 
+Get button. Home is rather obvious, as it will bring the user back to the point prior to initial interaction. The Search
+button will bring the user to the filter/graph interface minus the title and random images. This will probably be split
+into two pages, or may just go with scrolling on the mobile device. The Get button will be for the final stage. If a 
+user likes the recipe that they are viewing, the get button will email the recipe to the user.

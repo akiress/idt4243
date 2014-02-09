@@ -1,0 +1,9 @@
+P3 Contributions
+I worked on the LEDMenu to work as state control for LEDs. I also worked with NodeJs to devise way in which could send 
+signals to LEDs via phone which we ended up not using due to install problems with nodeJs (mainly compilation errors on
+the machines in Frey) and final issues with the internet connectivity on said machines.
+
+P4 Contributions
+I designed the History, Recipe, and Nutrition User Controls. I assisted with implementation of byte tags and 
+visualizers, which we ended up losing in a data overwrite Tuesday morning. I verbally assisted with idea and design of 
+cartouche a couple of evenings in Frey as we were trying to hammer out the design.

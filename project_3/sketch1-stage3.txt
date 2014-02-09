@@ -1,0 +1,4 @@
+By using the capacitive touch sensors, the user can scroll either up or down the 6 menu items in the item selection
+menu. Touching the far right sensor, the "ENTER" button, will cause that item to be selected and all pertinent data
+to be displayed. In a true deployment, I would like to see a column of 6 capacitive touch sensors aligning on the bezel
+next to the item selection buttons and a 7th sensor to be used as the "ENTER" selection.

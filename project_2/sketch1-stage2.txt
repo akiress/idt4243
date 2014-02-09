@@ -1,0 +1,2 @@
+Upon initial interaction, the title will slide/fade down (haven't decided exactly what to do yet nor what is possible) 
+to the bottom of the screens. The random images that were initially displayed will begin to fade/disappear.

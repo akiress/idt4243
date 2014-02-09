@@ -1,0 +1,4 @@
+Using one of the RFID tagged index cards, the user swipes the card on the RFID reader at the bottom right of the 
+display. This causes the UI to trigger the menu categories, causing that specific category to light up on the diplay.
+The LED corresponding to that category will also light up, using the same color as in the display highlighted category.
+The user can now either use a mobile device as before, or move towards the 3 button capacitive touch sensor box.

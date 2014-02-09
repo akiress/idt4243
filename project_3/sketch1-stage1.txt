@@ -1,0 +1,4 @@
+Initial stage of the interface. The user will walk up to the interface seeing a 6 (2x3) tiled display. On the side of
+the display will be a vertical row of 8 LED's with category names. The user has two options. The user can continue 
+using the UI with the mobile device as in project 2, or now can pull an RFID tagged index card from the hook above the 
+LEDs. There will be 8 cards, each with a category on them. No LEDs are lit at the moment.

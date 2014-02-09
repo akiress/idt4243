@@ -1,0 +1,10 @@
+= Dependencies =
+
+[http://www.python.org/download/ Python 2.7 - 32-bit windows]
+[http://kivy.org/#download Kivy 1.5.1 32-bit windows]
+[http://docs.gstreamer.com/display/GstSDK/Installing+on+Windows gstreamer 32-bit windows]
+
+== To run the GUI ==
+
+    source /pathtokivyinstallation/kivyenv.sh
+    python /pathtoguifile/P1.py

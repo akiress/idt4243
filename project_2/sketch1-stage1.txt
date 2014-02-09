@@ -1,0 +1,2 @@
+The initial screens as the user walks up to them. The center of the screen contains the title of our interface. Random 
+images will be displayed in free real estate so as the interface doesn't appear to be empty.
